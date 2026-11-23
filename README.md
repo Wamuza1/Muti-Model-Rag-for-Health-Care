@@ -16,5 +16,5 @@ The core of the solution involves the creation of an AI-based Advanced Retrieval
 1. **Development of a Text and Image-Based Knowledge Base:** This will compile comprehensive information about vitamins and nutrients, supplemented with relevant images to enrich user understanding.
 2. **Implementation of Reranking Methodology:** This process will refine the AI system’s ability to recommend the most relevant responses to user queries, thereby enhancing accuracy and user satisfaction.
 3. **Query Expansion Techniques:** These will improve the AI’s comprehension of user queries, making it more efficient in providing precise information tailored to individual needs.
-4.
-5. <img width="826" height="192" alt="Screenshot 2026-11-22 at 9 24 38 PM" src="https://github.com/user-attachments/assets/570f78ae-a296-453b-9c3f-a1f2641ef0c9" />
+  
+ <img width="826" height="192" alt="Screenshot 2026-11-22 at 9 24 38 PM" src="https://github.com/user-attachments/assets/570f78ae-a296-453b-9c3f-a1f2641ef0c9" />
